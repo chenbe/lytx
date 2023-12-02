@@ -3,3 +3,5 @@
 2. Run: terraform plan
 3. Run: terraform apply --auto-approve
 4. To destroy the env run: terraform destroy --auto-approve
+
+I attached screenshots from the working example to the repository.
